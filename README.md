@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KingJr07
+- 👋 Hi, I’m @KingJr07, I am a frontend web developer and a Python coder.
 - 👀 I’m interested in Web Development and App development.
-- 🌱 I’m currently learning Automation with Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Automation with Python.
+- 💞️ I’m looking to collaborate on Web development projects and Python projects.
 - 📫 Reach me through kingosundwa@gmail.com
 
 <!---
